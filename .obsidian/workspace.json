@@ -163,13 +163,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "714bca6b5947c3fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,21 +190,21 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9545e430db1c74c1",
   "lastOpenFiles": [
-    "_debug_remotely_save/sync_plans_hist_exported_on_1794918890962.md",
     "_debug_remotely_save/profiler_results_exported_on_1794918874120.md",
+    "Добро пожаловать.md",
+    "Без названия.canvas",
+    "_debug_remotely_save/sync_plans_hist_exported_on_1794918890962.md",
     "_debug_remotely_save",
     "DevOPS/инциденты",
-    "Без названия.canvas",
     "DevOPS/инциденты/Incident_001_HTTP_502_PostgreSQL_Docker.md",
     "DevOPS/Без названия/Без названия.md",
     "DevOPS/Docker_Docker_Compose_Obsidian_Cheatsheet.md",
     "DevOPS/🔧 Как диагностировать проблему с Docker-приложением.md",
-    "Добро пожаловать.md",
     "DevOPS",
     "созвон 30.10.md",
     "Созвоны с наставником.md",
